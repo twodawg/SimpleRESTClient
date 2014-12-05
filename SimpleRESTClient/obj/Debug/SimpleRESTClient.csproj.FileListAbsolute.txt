@@ -1,0 +1,10 @@
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\SimpleRESTClient.exe.config
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\SimpleRESTClient.exe
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\SimpleRESTClient.pdb
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\Newtonsoft.Json.dll
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\Newtonsoft.Json.xml
+C:\projects\SimpleRESTClient\SimpleRESTClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\SimpleRESTClient\SimpleRESTClient\obj\Debug\SimpleRESTClient.csprojResolveAssemblyReference.cache
+C:\projects\SimpleRESTClient\SimpleRESTClient\obj\Debug\SimpleRESTClient.exe
+C:\projects\SimpleRESTClient\SimpleRESTClient\obj\Debug\SimpleRESTClient.pdb
